@@ -1,5 +1,1 @@
-.DS_Store
-*.swp
-_data/*~
-_site/
-.coala-cache/*
+*.sh \n mine.txt
